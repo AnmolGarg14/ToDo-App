@@ -15,13 +15,13 @@ Before running the ToDo App locally, ensure you have the following prerequisites
 1. Clone the repository to your local machine:
 
 ```bash
-git clone https://github.com/your-username/todo-app.git
+git clone https://github.com/AnmolGarg14/ToDo-App.git
 ```
 
 2. Navigate to the project directory:
 
 ```bash
-cd todo-app
+cd ToDo-App
 ```
 
 3. Install project dependencies:
